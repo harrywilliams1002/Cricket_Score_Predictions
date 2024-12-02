@@ -2,6 +2,7 @@
 
  The project structure is as follows:
 
+(code view)
 ├── /CricketScorePredictor
 │   ├── /Flask_App
 │   │    ├──models -> Contains my exported models
